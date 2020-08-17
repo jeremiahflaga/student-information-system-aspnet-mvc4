@@ -1,6 +1,6 @@
 # Simple Student Information System
 
-This is a practice project for ASP.NET MVC4
+This is a practice project for ASP.NET MVC4 (moved here from repo from old github account, https://github.com/jboyflaga/StudInfoSys.AspNetMvc4)
 
 
 **NOTE (August 18, 2020):** To be able to run the project, you need to download and install SQLServer Express 2012 LocalDb from https://www.sqlshack.com/install-microsoft-sql-server-express-localdb/ (the file named `SqlLocalDB.MSI`, the one with a size of 33.0 MB)
